@@ -9,6 +9,10 @@
   <a href="#exemplo-de-uso">Exemplo de Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-feito-por">Feito por</a>
 </p>
+<br>
+<a href="https://github.com/Ncgrande">
+  <img align="center" src="https://img.shields.io/static/v1?label=github&message=NilsonGrande&color=7159c1&style=for-the-badge&logo=ghost"/>
+</a>
 
 ---
 
